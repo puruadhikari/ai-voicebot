@@ -1,8 +1,7 @@
-# ai-voicebot
-# AI-Powered Dental Assistant
+# AI-Powered Voicebot
 
 ## Overview
-This project is an AI-powered real-time voice assistant for a dental clinic. It integrates AssemblyAI, ElevenLabs, and OpenAI to provide a conversational assistant that transcribes incoming speech, generates intelligent responses, and returns a human-like audio response.
+This project is an AI-powered real-time voice assistant for a serice center. It integrates AssemblyAI, ElevenLabs, and OpenAI to provide a conversational assistant that transcribes incoming speech, generates intelligent responses, and returns a human-like audio response.
 
 ### Key Features
 - **Real-time Transcription**: Uses AssemblyAI to transcribe speech in real time.
@@ -41,17 +40,6 @@ python src/app.py
 ### Requirements
 - Python 3.9 or higher
 - Dependencies listed in `requirements.txt`
-
-### Docker
-To run the application in a Docker container:
-1. Build the image:
-   ```sh
-   docker build -t ai_dental_assistant .
-   ```
-2. Run the container:
-   ```sh
-   docker run -p 8000:8000 ai_dental_assistant
-   ```
 
 ### Logging
 Logs are stored in `logs/app.log` to monitor the application's activity and errors.
