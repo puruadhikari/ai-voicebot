@@ -1,0 +1,13 @@
+#brew install portaudio
+#pip install "assemblyai[extras]"
+#pip install elevenlabs==0.3.0b0
+#brew install mpv
+#pip install openai
+#pip install python-dotenv
+
+
+assemblyai[extras]
+elevenlabs==0.3.0b0
+openai
+PyYAML
+dotenv
