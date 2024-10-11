@@ -8,6 +8,8 @@ This project is an AI-powered real-time voice assistant for a serice center. It 
 - **AI Response Generation**: Uses OpenAI's GPT-3.5-turbo model to generate context-aware responses.
 - **Text-to-Speech**: Uses ElevenLabs to convert generated responses into human-like speech.
 
+### High level Data flow
+![Data Flow](media/Dataflow.png)
 ### Folder Structure
 - **src/**: Contains the main application code.
   - **ai_assistant/**: Contains modules for different functionalities (transcription, response generation, audio generation).
