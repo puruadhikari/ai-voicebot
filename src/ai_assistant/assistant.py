@@ -80,7 +80,7 @@ class AiAssistant:
 
         try:
             ai_response = self.response_generator.generate_response(self.full_transcript)
-            #self.audio_generator.generate_audio(ai_response)
+            self.audio_generator.generate_audio(ai_response)
             self.start_transcription()
             self.logger.info("Real-time transcription restarted.")
         except Exception as e:
