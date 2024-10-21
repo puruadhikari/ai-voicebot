@@ -427,3 +427,589 @@ Customer: I would like to enhance my hotel experience.
 
 2024-10-11 09:54:30,911 - src.utils.logging - INFO - 
 Customer: Can you talk me through the other card where I can get more extra miles?
+2024-10-21 19:24:43,981 - src.utils.logging - INFO - Transcription (interim):andy my
+2024-10-21 19:24:44,401 - src.utils.logging - INFO - Transcription (interim):andy my name is
+2024-10-21 19:24:45,015 - src.utils.logging - INFO - Transcription (interim):andy my name is per
+2024-10-21 19:24:45,311 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and
+2024-10-21 19:24:45,777 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am
+2024-10-21 19:24:46,243 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent
+2024-10-21 19:24:46,550 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent travel
+2024-10-21 19:24:47,103 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i
+2024-10-21 19:24:47,555 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for
+2024-10-21 19:24:47,931 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some card
+2024-10-21 19:24:48,340 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can
+2024-10-21 19:24:48,728 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can help me
+2024-10-21 19:24:49,242 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can help me in my
+2024-10-21 19:24:49,667 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can help me in my travel
+2024-10-21 19:24:50,136 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can help me in my traveling
+2024-10-21 19:24:50,535 - src.utils.logging - INFO - Transcription (interim):andy my name is peru and i am a frequent traveler i'm looking for some cards which can help me in my traveling
+2024-10-21 19:24:51,032 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:24:51,033 - src.utils.logging - INFO - 
+Customer: Andy. My name is Peru and I am a frequent traveler. I'm looking for some cards. Which can help me in my traveling.
+2024-10-21 19:25:24,518 - src.utils.logging - INFO - Transcription (interim):have any
+2024-10-21 19:25:24,794 - src.utils.logging - INFO - Transcription (interim):have any
+2024-10-21 19:25:25,363 - src.utils.logging - INFO - Transcription (interim):have any cards that can
+2024-10-21 19:25:25,707 - src.utils.logging - INFO - Transcription (interim):have any cards that can help
+2024-10-21 19:25:26,227 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me
+2024-10-21 19:25:26,620 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting
+2024-10-21 19:25:27,020 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points
+2024-10-21 19:25:27,513 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points when i
+2024-10-21 19:25:27,921 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points when i stay in
+2024-10-21 19:25:28,433 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points when i stay in a hotel
+2024-10-21 19:25:28,775 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points when i stay in a hotel
+2024-10-21 19:25:29,233 - src.utils.logging - INFO - Transcription (interim):have any cards that can help me getting some points when i stay in a hotel
+2024-10-21 19:25:29,826 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:25:29,827 - src.utils.logging - INFO - 
+Customer: Have any cards that can help me getting some points when I stay in a hotel?
+2024-10-21 19:26:03,331 - src.utils.logging - INFO - Transcription (interim):can you
+2024-10-21 19:26:03,866 - src.utils.logging - INFO - Transcription (interim):can you compare both
+2024-10-21 19:26:04,214 - src.utils.logging - INFO - Transcription (interim):can you compare both the card
+2024-10-21 19:26:04,719 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and
+2024-10-21 19:26:05,128 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which
+2024-10-21 19:26:05,519 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would
+2024-10-21 19:26:06,039 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for
+2024-10-21 19:26:06,459 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if
+2024-10-21 19:26:06,982 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i
+2024-10-21 19:26:07,333 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to
+2024-10-21 19:26:07,721 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay
+2024-10-21 19:26:08,268 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hot
+2024-10-21 19:26:08,624 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hotel
+2024-10-21 19:26:09,116 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hotel
+2024-10-21 19:26:09,608 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hotel as well as
+2024-10-21 19:26:09,925 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hotel as well as travel
+2024-10-21 19:26:10,446 - src.utils.logging - INFO - Transcription (interim):can you compare both the cards and tell me which one would be better for me if i want to stay hotel as well as travel
+2024-10-21 19:26:10,954 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:26:10,954 - src.utils.logging - INFO - 
+Customer: Can you compare both the cards and tell me which one would be better for me if I. Want to stay, hotel as well as travel.
+2024-10-21 19:28:26,760 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 19:28:27,183 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 19:28:27,524 - src.utils.logging - INFO - Transcription (interim):my name is puru
+2024-10-21 19:28:28,022 - src.utils.logging - INFO - Transcription (interim):my name is puru and
+2024-10-21 19:28:28,540 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am
+2024-10-21 19:28:28,856 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent
+2024-10-21 19:28:29,344 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent travel
+2024-10-21 19:28:29,760 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 19:28:30,189 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking
+2024-10-21 19:28:30,638 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for
+2024-10-21 19:28:30,989 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some card
+2024-10-21 19:28:31,530 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can
+2024-10-21 19:28:31,946 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me
+2024-10-21 19:28:32,460 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while
+2024-10-21 19:28:32,834 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm travel
+2024-10-21 19:28:33,266 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can
+2024-10-21 19:28:33,785 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with
+2024-10-21 19:28:34,111 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with some of
+2024-10-21 19:28:34,629 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with some of the cards
+2024-10-21 19:28:35,088 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with some of the cards that you offer
+2024-10-21 19:28:35,485 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with some of the cards that you offer
+2024-10-21 19:28:35,892 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that can help me while i'm traveling can you help me with some of the cards that you offer
+2024-10-21 19:28:36,407 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:28:36,407 - src.utils.logging - INFO - 
+Customer: My name is Puru, and I am a frequent traveler. I'm looking for some cards. That can help me while I'm traveling? Can you help me with some of the cards? That you offer.
+2024-10-21 19:29:14,943 - src.utils.logging - INFO - Transcription (interim):can you
+2024-10-21 19:29:15,434 - src.utils.logging - INFO - Transcription (interim):can you talk me through
+2024-10-21 19:29:15,804 - src.utils.logging - INFO - Transcription (interim):can you talk me through the
+2024-10-21 19:29:16,304 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer
+2024-10-21 19:29:16,777 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have
+2024-10-21 19:29:17,132 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have on
+2024-10-21 19:29:17,608 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have on delta
+2024-10-21 19:29:18,066 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have on delta car
+2024-10-21 19:29:18,598 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have on delta car please
+2024-10-21 19:29:18,939 - src.utils.logging - INFO - Transcription (interim):can you talk me through the welcome offer that you have on delta car please
+2024-10-21 19:29:19,416 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:29:19,417 - src.utils.logging - INFO - 
+Customer: Can you talk me through the welcome offer that you have on Delta car, please?
+2024-10-21 19:29:50,484 - src.utils.logging - INFO - Transcription (interim):thank you but
+2024-10-21 19:29:50,925 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk
+2024-10-21 19:29:51,381 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me
+2024-10-21 19:29:51,905 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through
+2024-10-21 19:29:52,235 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the
+2024-10-21 19:29:52,744 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which
+2024-10-21 19:29:53,225 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers
+2024-10-21 19:29:53,570 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more
+2024-10-21 19:29:54,067 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit
+2024-10-21 19:29:54,403 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit on
+2024-10-21 19:29:54,880 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit on hotel stay
+2024-10-21 19:29:55,394 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit on hotel stays
+2024-10-21 19:29:55,810 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit on hotel stays please
+2024-10-21 19:29:56,237 - src.utils.logging - INFO - Transcription (interim):thank you but can you talk me through the card which offers me more benefit on hotel stays please
+2024-10-21 19:29:56,757 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:29:56,758 - src.utils.logging - INFO - 
+Customer: Thank you. But can you talk me through the card which offers me more benefit on hotel stays? Please.
+2024-10-21 19:31:25,749 - src.utils.logging - INFO - Transcription (interim):thank you
+2024-10-21 19:31:26,156 - src.utils.logging - INFO - Transcription (interim):thank you sandy
+2024-10-21 19:31:26,633 - src.utils.logging - INFO - Transcription (interim):thank you sandy
+2024-10-21 19:31:27,041 - src.utils.logging - INFO - Transcription (interim):thank you sandy i'm
+2024-10-21 19:31:27,452 - src.utils.logging - INFO - Transcription (interim):thank you sandy i'm good
+2024-10-21 19:31:27,951 - src.utils.logging - INFO - Transcription (interim):thank you sandy i'm good
+2024-10-21 19:31:28,498 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 19:31:28,499 - src.utils.logging - INFO - 
+Customer: Thank you, Sandy. I'm good.
+2024-10-21 20:13:59,635 - src.utils.logging - INFO - Transcription (interim):morning
+2024-10-21 20:14:00,043 - src.utils.logging - INFO - Transcription (interim):morning my name is
+2024-10-21 20:14:00,529 - src.utils.logging - INFO - Transcription (interim):morning my name is
+2024-10-21 20:14:01,036 - src.utils.logging - INFO - Transcription (interim):morning my name is peru
+2024-10-21 20:14:01,458 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i
+2024-10-21 20:14:01,848 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a fre
+2024-10-21 20:14:02,265 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent
+2024-10-21 20:14:02,778 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent travel
+2024-10-21 20:14:03,139 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler
+2024-10-21 20:14:03,639 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler
+2024-10-21 20:14:04,048 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you
+2024-10-21 20:14:04,467 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me
+2024-10-21 20:14:04,991 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you
+2024-10-21 20:14:05,340 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any
+2024-10-21 20:14:05,837 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offer
+2024-10-21 20:14:06,287 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings
+2024-10-21 20:14:06,630 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for
+2024-10-21 20:14:07,128 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for fuchan travel
+2024-10-21 20:14:07,613 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for fuchan travelers like
+2024-10-21 20:14:08,137 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for fuchan travelers like me
+2024-10-21 20:14:08,448 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for fuchan travelers like me
+2024-10-21 20:14:08,874 - src.utils.logging - INFO - Transcription (interim):morning my name is peru and i'm a frequent traveler could you tell me if you have any card offerings for fuchan travelers like me
+2024-10-21 20:14:09,464 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:14:09,464 - src.utils.logging - INFO - 
+Customer: Morning. My name is Peru and I'm a frequent traveler. Could you tell me if you. Have any card offerings for Fuchan travelers like me?
+2024-10-21 20:16:03,001 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:16:03,513 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:16:03,884 - src.utils.logging - INFO - Transcription (interim):my name is puru
+2024-10-21 20:16:04,420 - src.utils.logging - INFO - Transcription (interim):my name is puru and
+2024-10-21 20:16:04,821 - src.utils.logging - INFO - Transcription (interim):my name is puru and i
+2024-10-21 20:16:05,246 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a freque
+2024-10-21 20:16:05,772 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent travel
+2024-10-21 20:16:06,116 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 20:16:06,628 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 20:16:07,154 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking
+2024-10-21 20:16:07,415 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some
+2024-10-21 20:16:07,915 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards
+2024-10-21 20:16:08,282 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that
+2024-10-21 20:16:08,799 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer
+2024-10-21 20:16:09,252 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly
+2024-10-21 20:16:09,640 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the
+2024-10-21 20:16:10,096 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta
+2024-10-21 20:16:10,516 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky
+2024-10-21 20:16:11,091 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one
+2024-10-21 20:16:11,400 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one
+2024-10-21 20:16:11,872 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one could you
+2024-10-21 20:16:12,271 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one could you talk me through
+2024-10-21 20:16:12,684 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one could you talk me through it please
+2024-10-21 20:16:13,171 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one could you talk me through it please
+2024-10-21 20:16:13,638 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler i'm looking for some cards that you offer particularly the delta sky mile one could you talk me through it please
+2024-10-21 20:16:14,162 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:16:14,162 - src.utils.logging - INFO - 
+Customer: My name is puru, and I am a frequent traveler. I'm looking for some cards. That you offer, particularly the delta sky, mile one. Could you talk me through it, please?
+2024-10-21 20:16:53,081 - src.utils.logging - INFO - Transcription (interim):what
+2024-10-21 20:16:53,511 - src.utils.logging - INFO - Transcription (interim):what are its
+2024-10-21 20:16:54,055 - src.utils.logging - INFO - Transcription (interim):what are its eligibility
+2024-10-21 20:16:54,403 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criter
+2024-10-21 20:16:54,915 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria
+2024-10-21 20:16:55,277 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:16:55,702 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:16:56,176 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:16:56,791 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:16:56,792 - src.utils.logging - INFO - 
+Customer: What are its eligibility criteria, please?
+2024-10-21 20:17:26,892 - src.utils.logging - INFO - Transcription (interim):okay
+2024-10-21 20:17:27,275 - src.utils.logging - INFO - Transcription (interim):okay so
+2024-10-21 20:17:27,936 - src.utils.logging - INFO - Transcription (interim):okay so does that mean
+2024-10-21 20:17:28,179 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if
+2024-10-21 20:17:28,654 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't
+2024-10-21 20:17:29,139 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay
+2024-10-21 20:17:29,471 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the
+2024-10-21 20:17:29,995 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us
+2024-10-21 20:17:30,518 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us
+2024-10-21 20:17:30,781 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still
+2024-10-21 20:17:31,268 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still apply
+2024-10-21 20:17:31,633 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still apply for
+2024-10-21 20:17:32,150 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still apply for it
+2024-10-21 20:17:32,617 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still apply for it
+2024-10-21 20:17:32,951 - src.utils.logging - INFO - Transcription (interim):okay so does that mean if i don't stay in the us i can still apply for it
+2024-10-21 20:17:33,559 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:17:33,559 - src.utils.logging - INFO - 
+Customer: Okay, so does that mean if I don't stay in the US, I can still apply? For it.
+2024-10-21 20:23:30,901 - src.utils.logging - INFO - Transcription (interim):and
+2024-10-21 20:23:31,354 - src.utils.logging - INFO - Transcription (interim):and i am
+2024-10-21 20:23:31,823 - src.utils.logging - INFO - Transcription (interim):and i am a frequent
+2024-10-21 20:23:32,184 - src.utils.logging - INFO - Transcription (interim):and i am a frequent travel
+2024-10-21 20:23:32,679 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler
+2024-10-21 20:23:33,096 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you
+2024-10-21 20:23:33,567 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me
+2024-10-21 20:23:33,989 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting
+2024-10-21 20:23:34,381 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that
+2024-10-21 20:23:34,747 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant
+2024-10-21 20:23:35,307 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant for
+2024-10-21 20:23:35,751 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant for frequent
+2024-10-21 20:23:36,164 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant for frequent travelers
+2024-10-21 20:23:36,597 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant for frequent travelers
+2024-10-21 20:23:36,987 - src.utils.logging - INFO - Transcription (interim):and i am a frequent traveler can you help me getting a card that is meant for frequent travelers
+2024-10-21 20:23:37,591 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:23:37,592 - src.utils.logging - INFO - 
+Customer: And I am a frequent traveler. Can you help me getting a card that is meant for frequent? Travelers.
+2024-10-21 20:24:25,740 - src.utils.logging - INFO - Transcription (interim):what are the
+2024-10-21 20:24:26,149 - src.utils.logging - INFO - Transcription (interim):what are the eligibility
+2024-10-21 20:24:26,675 - src.utils.logging - INFO - Transcription (interim):what are the eligibility criteria
+2024-10-21 20:24:27,035 - src.utils.logging - INFO - Transcription (interim):what are the eligibility criteria for
+2024-10-21 20:24:27,564 - src.utils.logging - INFO - Transcription (interim):what are the eligibility criteria for it
+2024-10-21 20:24:27,930 - src.utils.logging - INFO - Transcription (interim):what are the eligibility criteria for it please
+2024-10-21 20:24:28,372 - src.utils.logging - INFO - Transcription (interim):what are the eligibility criteria for it please
+2024-10-21 20:24:28,987 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:24:28,987 - src.utils.logging - INFO - 
+Customer: What are the eligibility criteria for it, please?
+2024-10-21 20:24:54,422 - src.utils.logging - INFO - Transcription (interim):does
+2024-10-21 20:24:54,806 - src.utils.logging - INFO - Transcription (interim):does it cover
+2024-10-21 20:24:55,336 - src.utils.logging - INFO - Transcription (interim):does it cover the car acc
+2024-10-21 20:24:55,689 - src.utils.logging - INFO - Transcription (interim):does it cover the car accident
+2024-10-21 20:24:56,100 - src.utils.logging - INFO - Transcription (interim):does it cover the car accidents as well
+2024-10-21 20:24:56,623 - src.utils.logging - INFO - Transcription (interim):does it cover the car accidents as well
+2024-10-21 20:24:57,022 - src.utils.logging - INFO - Transcription (interim):does it cover the car accidents as well
+2024-10-21 20:24:57,559 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:24:57,560 - src.utils.logging - INFO - 
+Customer: Does it cover the car accidents as well?
+2024-10-21 20:25:26,026 - src.utils.logging - INFO - Transcription (interim):does
+2024-10-21 20:25:26,426 - src.utils.logging - INFO - Transcription (interim):does this card
+2024-10-21 20:25:26,914 - src.utils.logging - INFO - Transcription (interim):does this card have
+2024-10-21 20:25:27,416 - src.utils.logging - INFO - Transcription (interim):does this card have any welcome
+2024-10-21 20:25:27,737 - src.utils.logging - INFO - Transcription (interim):does this card have any welcome offer
+2024-10-21 20:25:28,250 - src.utils.logging - INFO - Transcription (interim):does this card have any welcome offers please
+2024-10-21 20:25:28,675 - src.utils.logging - INFO - Transcription (interim):does this card have any welcome offers please
+2024-10-21 20:25:29,090 - src.utils.logging - INFO - Transcription (interim):does this card have any welcome offers please
+2024-10-21 20:25:29,708 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:25:29,709 - src.utils.logging - INFO - 
+Customer: Does this card have any welcome offers, please?
+2024-10-21 20:28:16,182 - src.utils.logging - INFO - Transcription (interim):morning
+2024-10-21 20:28:16,585 - src.utils.logging - INFO - Transcription (interim):morning my name is
+2024-10-21 20:28:17,114 - src.utils.logging - INFO - Transcription (interim):morning my name is
+2024-10-21 20:28:17,528 - src.utils.logging - INFO - Transcription (interim):morning my name is pur
+2024-10-21 20:28:18,001 - src.utils.logging - INFO - Transcription (interim):morning my name is puru
+2024-10-21 20:28:18,444 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and
+2024-10-21 20:28:18,841 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a
+2024-10-21 20:28:19,366 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent
+2024-10-21 20:28:19,716 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and
+2024-10-21 20:28:20,224 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm
+2024-10-21 20:28:20,625 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for
+2024-10-21 20:28:20,969 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some
+2024-10-21 20:28:21,561 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that
+2024-10-21 20:28:21,928 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offer
+2024-10-21 20:28:22,405 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by
+2024-10-21 20:28:22,791 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american exp
+2024-10-21 20:28:23,201 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american exp
+2024-10-21 20:28:23,701 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express
+2024-10-21 20:28:24,110 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express
+2024-10-21 20:28:24,615 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant
+2024-10-21 20:28:25,020 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for
+2024-10-21 20:28:25,427 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for frequent travel
+2024-10-21 20:28:25,940 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for frequent travelers like
+2024-10-21 20:28:26,387 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for frequent travelers like me
+2024-10-21 20:28:26,787 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for frequent travelers like me
+2024-10-21 20:28:27,217 - src.utils.logging - INFO - Transcription (interim):morning my name is puru and i am a frequent traveler and i'm looking for some cards that are being offered by american express that is meant for frequent travelers like me
+2024-10-21 20:28:27,755 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:28:27,756 - src.utils.logging - INFO - 
+Customer: Morning. My name is Puru, and I am a frequent traveler, and I'm looking for. Some cards that are being offered by American Express that is meant for frequent travelers like me.
+2024-10-21 20:29:01,072 - src.utils.logging - INFO - Transcription (interim):talk me through
+2024-10-21 20:29:01,451 - src.utils.logging - INFO - Transcription (interim):talk me through this guy
+2024-10-21 20:29:01,999 - src.utils.logging - INFO - Transcription (interim):talk me through this guy mild
+2024-10-21 20:29:02,502 - src.utils.logging - INFO - Transcription (interim):talk me through this guy mild card
+2024-10-21 20:29:02,988 - src.utils.logging - INFO - Transcription (interim):talk me through this guy mild card please
+2024-10-21 20:29:03,284 - src.utils.logging - INFO - Transcription (interim):talk me through this guy mild card please
+2024-10-21 20:29:03,773 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:29:03,774 - src.utils.logging - INFO - 
+Customer: Talk me through this guy. Mild card, please.
+2024-10-21 20:30:16,236 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:30:16,619 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:30:17,250 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:30:17,250 - src.utils.logging - INFO - 
+Customer: My name is.
+2024-10-21 20:31:24,214 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:31:24,560 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:31:25,091 - src.utils.logging - INFO - Transcription (interim):my name is peru
+2024-10-21 20:31:25,564 - src.utils.logging - INFO - Transcription (interim):my name is peru and
+2024-10-21 20:31:25,982 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm
+2024-10-21 20:31:26,394 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking
+2024-10-21 20:31:26,963 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some
+2024-10-21 20:31:27,305 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card
+2024-10-21 20:31:27,750 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where
+2024-10-21 20:31:28,608 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get
+2024-10-21 20:31:28,941 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the
+2024-10-21 20:31:29,181 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits
+2024-10-21 20:31:29,477 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of
+2024-10-21 20:31:29,870 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything
+2024-10-21 20:31:30,438 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything that
+2024-10-21 20:31:30,793 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything that i'm while i'm
+2024-10-21 20:31:31,177 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything that i'm while i'm traveling
+2024-10-21 20:31:31,703 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything that i'm while i'm traveling
+2024-10-21 20:31:32,068 - src.utils.logging - INFO - Transcription (interim):my name is peru and i'm looking for some card where i can get the benefits of anything that i'm while i'm traveling
+2024-10-21 20:31:32,672 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:31:32,672 - src.utils.logging - INFO - 
+Customer: My name is Peru and I'm looking for some card where I can get the benefits. Of anything that I'm while I'm traveling.
+2024-10-21 20:32:15,797 - src.utils.logging - INFO - Transcription (interim):a i'm
+2024-10-21 20:32:16,325 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent
+2024-10-21 20:32:16,705 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent travel
+2024-10-21 20:32:17,213 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler
+2024-10-21 20:32:17,576 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and
+2024-10-21 20:32:17,989 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm
+2024-10-21 20:32:18,531 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for
+2024-10-21 20:32:18,907 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card
+2024-10-21 20:32:19,393 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which
+2024-10-21 20:32:19,827 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me
+2024-10-21 20:32:20,154 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me while
+2024-10-21 20:32:20,694 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me while i'm travel
+2024-10-21 20:32:21,067 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me while i'm traveling
+2024-10-21 20:32:21,607 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me while i'm traveling
+2024-10-21 20:32:21,970 - src.utils.logging - INFO - Transcription (interim):a i'm a frequent traveler and i'm looking for some card which will help me while i'm traveling
+2024-10-21 20:32:22,547 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:32:22,548 - src.utils.logging - INFO - 
+Customer: A. I'm a frequent traveler, and I'm looking for some card which will help. Me while I'm traveling.
+2024-10-21 20:33:27,804 - src.utils.logging - INFO - Transcription (interim):can
+2024-10-21 20:33:28,291 - src.utils.logging - INFO - Transcription (interim):can you talk
+2024-10-21 20:33:28,642 - src.utils.logging - INFO - Transcription (interim):can you talk me through
+2024-10-21 20:33:28,994 - src.utils.logging - INFO - Transcription (interim):can you talk me through the
+2024-10-21 20:33:30,433 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of
+2024-10-21 20:33:30,435 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta
+2024-10-21 20:33:30,436 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta sky
+2024-10-21 20:33:30,739 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta sky mile
+2024-10-21 20:33:31,177 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta sky mile card
+2024-10-21 20:33:31,617 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta sky mile card please
+2024-10-21 20:33:32,032 - src.utils.logging - INFO - Transcription (interim):can you talk me through the benefits of delta sky mile card please
+2024-10-21 20:33:32,509 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:33:32,510 - src.utils.logging - INFO - 
+Customer: Can you talk me through the benefits of Delta sky mile card, please?
+2024-10-21 20:36:46,743 - src.utils.logging - INFO - Transcription (interim):my name
+2024-10-21 20:36:47,186 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:36:47,710 - src.utils.logging - INFO - Transcription (interim):my name is puru
+2024-10-21 20:36:48,048 - src.utils.logging - INFO - Transcription (interim):my name is puru and i
+2024-10-21 20:36:48,568 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a
+2024-10-21 20:36:48,985 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent
+2024-10-21 20:36:49,343 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent travel
+2024-10-21 20:36:49,853 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler
+2024-10-21 20:36:50,332 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler
+2024-10-21 20:36:50,710 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have
+2024-10-21 20:36:51,189 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any
+2024-10-21 20:36:51,509 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings
+2024-10-21 20:36:52,020 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for
+2024-10-21 20:36:52,494 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for frequent travel
+2024-10-21 20:36:52,981 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for frequent travelers
+2024-10-21 20:36:53,322 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for frequent travelers please
+2024-10-21 20:36:53,811 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for frequent travelers please
+2024-10-21 20:36:54,237 - src.utils.logging - INFO - Transcription (interim):my name is puru and i'm a frequent traveler do you have any card offerings for frequent travelers please
+2024-10-21 20:36:54,772 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:36:54,773 - src.utils.logging - INFO - 
+Customer: My name is Puru, and I'm a frequent traveler. Do you have any card offerings? For frequent travelers, please.
+2024-10-21 20:38:20,682 - src.utils.logging - INFO - Transcription (interim):my
+2024-10-21 20:38:21,009 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:38:21,523 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:38:21,899 - src.utils.logging - INFO - Transcription (interim):my name is peru
+2024-10-21 20:38:22,433 - src.utils.logging - INFO - Transcription (interim):my name is peru i
+2024-10-21 20:38:22,865 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a freque
+2024-10-21 20:38:23,216 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent travel
+2024-10-21 20:38:23,744 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and
+2024-10-21 20:38:24,099 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking
+2024-10-21 20:38:24,625 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for
+2024-10-21 20:38:25,913 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some
+2024-10-21 20:38:25,915 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that
+2024-10-21 20:38:25,916 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offer
+2024-10-21 20:38:26,199 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offered by
+2024-10-21 20:38:26,658 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offered by american
+2024-10-21 20:38:27,043 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offered by american exp
+2024-10-21 20:38:27,482 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offered by american express
+2024-10-21 20:38:27,974 - src.utils.logging - INFO - Transcription (interim):my name is peru i am a frequent traveler and i'm looking for some cards that are being offered by american express
+2024-10-21 20:38:28,470 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:38:28,471 - src.utils.logging - INFO - 
+Customer: My name is Peru. I am a frequent traveler and I'm looking for some cards that are being offered by American Express.
+2024-10-21 20:39:12,915 - src.utils.logging - INFO - Transcription (interim):talk me through
+2024-10-21 20:39:13,323 - src.utils.logging - INFO - Transcription (interim):talk me through the
+2024-10-21 20:39:13,810 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sk
+2024-10-21 20:39:15,839 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sky mil
+2024-10-21 20:39:16,030 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sky mile
+2024-10-21 20:39:16,031 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sky mile carcl
+2024-10-21 20:39:16,032 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sky mile carclays
+2024-10-21 20:39:16,188 - src.utils.logging - INFO - Transcription (interim):talk me through the delta sky mile carclays
+2024-10-21 20:39:16,552 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:39:16,554 - src.utils.logging - INFO - 
+Customer: Talk me through the Delta sky mile carclays.
+2024-10-21 20:40:20,205 - src.utils.logging - INFO - Transcription (interim):what
+2024-10-21 20:40:20,578 - src.utils.logging - INFO - Transcription (interim):what are its eligibility
+2024-10-21 20:40:21,052 - src.utils.logging - INFO - Transcription (interim):what are its eligibility cr
+2024-10-21 20:40:21,499 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria
+2024-10-21 20:40:21,952 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:40:22,379 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:40:22,733 - src.utils.logging - INFO - Transcription (interim):what are its eligibility criteria please
+2024-10-21 20:40:23,341 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:40:23,341 - src.utils.logging - INFO - 
+Customer: What are its eligibility criteria, please?
+2024-10-21 20:40:45,050 - src.utils.logging - INFO - Transcription (interim):how about
+2024-10-21 20:40:45,459 - src.utils.logging - INFO - Transcription (interim):how about if
+2024-10-21 20:40:45,907 - src.utils.logging - INFO - Transcription (interim):how about if i want to
+2024-10-21 20:40:46,392 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the
+2024-10-21 20:40:46,720 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the benefits of
+2024-10-21 20:40:47,235 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the benefits of staying in
+2024-10-21 20:40:47,612 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the benefits of staying in a hot
+2024-10-21 20:40:48,044 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the benefits of staying in a hotel
+2024-10-21 20:40:48,487 - src.utils.logging - INFO - Transcription (interim):how about if i want to get the benefits of staying in a hotel
+2024-10-21 20:40:49,041 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:40:49,042 - src.utils.logging - INFO - 
+Customer: How about if I want to get the benefits of staying in a hotel?
+2024-10-21 20:41:04,819 - src.utils.logging - INFO - Transcription (interim):key benefits
+2024-10-21 20:41:05,172 - src.utils.logging - INFO - Transcription (interim):key benefits of the
+2024-10-21 20:41:05,633 - src.utils.logging - INFO - Transcription (interim):key benefits of the car
+2024-10-21 20:41:06,042 - src.utils.logging - INFO - Transcription (interim):key benefits of the car
+2024-10-21 20:41:06,554 - src.utils.logging - INFO - Transcription (interim):key benefits of the car please
+2024-10-21 20:41:06,936 - src.utils.logging - INFO - Transcription (interim):key benefits of the car please
+2024-10-21 20:41:07,476 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:41:07,476 - src.utils.logging - INFO - 
+Customer: Key benefits of the car, please.
+2024-10-21 20:43:46,156 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:43:46,597 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:43:47,087 - src.utils.logging - INFO - Transcription (interim):my name is puru
+2024-10-21 20:43:47,487 - src.utils.logging - INFO - Transcription (interim):my name is puru and i
+2024-10-21 20:43:47,974 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a freque
+2024-10-21 20:43:48,395 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent
+2024-10-21 20:43:48,794 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent travel
+2024-10-21 20:43:49,274 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 20:43:49,677 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can
+2024-10-21 20:43:50,139 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help
+2024-10-21 20:43:50,542 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if
+2024-10-21 20:43:50,980 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you
+2024-10-21 20:43:51,468 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any
+2024-10-21 20:43:51,855 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any
+2024-10-21 20:43:52,385 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that
+2024-10-21 20:43:52,777 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that are meant
+2024-10-21 20:43:53,164 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that are meant for travel
+2024-10-21 20:43:53,685 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that are meant for travel
+2024-10-21 20:43:54,084 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that are meant for travelers
+2024-10-21 20:43:54,595 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler can you help me if you have any cards that are meant for travelers
+2024-10-21 20:43:55,073 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:43:55,073 - src.utils.logging - INFO - 
+Customer: My name is Puru and I am a frequent traveler. Can you help me? If you have. Any cards that are meant for travelers.
+2024-10-21 20:44:54,635 - src.utils.logging - INFO - Transcription (interim):do you
+2024-10-21 20:44:55,130 - src.utils.logging - INFO - Transcription (interim):do you have any
+2024-10-21 20:44:55,536 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer
+2024-10-21 20:44:56,034 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer
+2024-10-21 20:44:56,425 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the
+2024-10-21 20:44:56,856 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonv
+2024-10-21 20:44:57,324 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card
+2024-10-21 20:44:57,775 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and
+2024-10-21 20:44:58,226 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and what's his ann
+2024-10-21 20:44:58,637 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and what's his annual fee
+2024-10-21 20:44:59,028 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and what's his annual fee please
+2024-10-21 20:44:59,538 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and what's his annual fee please
+2024-10-21 20:44:59,992 - src.utils.logging - INFO - Transcription (interim):do you have any welcome offer for the bonvoy card and what's his annual fee please
+2024-10-21 20:45:00,508 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:45:00,508 - src.utils.logging - INFO - 
+Customer: Do you have any welcome offer for the Bonvoy card? And what's his annual? Fee, please.
+2024-10-21 20:45:27,818 - src.utils.logging - INFO - Transcription (interim):how about
+2024-10-21 20:45:28,229 - src.utils.logging - INFO - Transcription (interim):how about the delta
+2024-10-21 20:45:28,714 - src.utils.logging - INFO - Transcription (interim):how about the delta sky
+2024-10-21 20:45:29,132 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile
+2024-10-21 20:45:29,533 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any
+2024-10-21 20:45:30,038 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome
+2024-10-21 20:45:30,441 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer
+2024-10-21 20:45:30,896 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer and the ann
+2024-10-21 20:45:31,363 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer and the annual fe
+2024-10-21 20:45:31,683 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer and the annual fee
+2024-10-21 20:45:32,194 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer and the annual fee
+2024-10-21 20:45:32,613 - src.utils.logging - INFO - Transcription (interim):how about the delta sky mile does it have any welcome offer and the annual fee
+2024-10-21 20:45:33,220 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:45:33,221 - src.utils.logging - INFO - 
+Customer: How about the Delta sky mile? Does it have any welcome offer and the annual fee?
+2024-10-21 20:47:33,733 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:47:34,119 - src.utils.logging - INFO - Transcription (interim):my name is
+2024-10-21 20:47:34,710 - src.utils.logging - INFO - Transcription (interim):my name is puru and
+2024-10-21 20:47:35,021 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am
+2024-10-21 20:47:35,539 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a freque
+2024-10-21 20:47:35,943 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent
+2024-10-21 20:47:36,330 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 20:47:36,826 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler
+2024-10-21 20:47:37,251 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have
+2024-10-21 20:47:37,748 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any card
+2024-10-21 20:47:38,137 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for
+2024-10-21 20:47:38,551 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for frequent travel
+2024-10-21 20:47:39,065 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for frequent travelers
+2024-10-21 20:47:39,420 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for frequent travelers like me
+2024-10-21 20:47:39,907 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for frequent travelers like me
+2024-10-21 20:47:40,334 - src.utils.logging - INFO - Transcription (interim):my name is puru and i am a frequent traveler do you have any cards for frequent travelers like me
+2024-10-21 20:47:40,822 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:47:40,823 - src.utils.logging - INFO - 
+Customer: My name is Puru and I am a frequent traveler. Do you have any cards for frequent? Travelers like me.
+2024-10-21 20:48:23,552 - src.utils.logging - INFO - Transcription (interim):can you
+2024-10-21 20:48:23,892 - src.utils.logging - INFO - Transcription (interim):can you tell
+2024-10-21 20:48:24,408 - src.utils.logging - INFO - Transcription (interim):can you tell me
+2024-10-21 20:48:24,855 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome
+2024-10-21 20:48:25,304 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer
+2024-10-21 20:48:25,703 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you
+2024-10-21 20:48:26,162 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on
+2024-10-21 20:48:26,624 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott
+2024-10-21 20:48:27,023 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bon
+2024-10-21 20:48:27,516 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy
+2024-10-21 20:48:27,959 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and
+2024-10-21 20:48:28,341 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and what's his
+2024-10-21 20:48:28,791 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and what's his annual fe
+2024-10-21 20:48:29,263 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and what's his annual fee please
+2024-10-21 20:48:29,717 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and what's his annual fee please
+2024-10-21 20:48:30,147 - src.utils.logging - INFO - Transcription (interim):can you tell me the welcome offer that you have on marriott bonvoy card and what's his annual fee please
+2024-10-21 20:48:30,595 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:48:30,596 - src.utils.logging - INFO - 
+Customer: Can you tell me the welcome offer that you have on Marriott Bonvoy card and what's? His annual fee, please.
+2024-10-21 20:48:54,534 - src.utils.logging - INFO - Transcription (interim):look
+2024-10-21 20:48:54,937 - src.utils.logging - INFO - Transcription (interim):look i travel
+2024-10-21 20:48:55,467 - src.utils.logging - INFO - Transcription (interim):look i travel a lot
+2024-10-21 20:48:55,879 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on
+2024-10-21 20:48:56,267 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta
+2024-10-21 20:48:56,790 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flight
+2024-10-21 20:48:57,191 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so
+2024-10-21 20:48:57,627 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you
+2024-10-21 20:48:58,055 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me
+2024-10-21 20:48:58,440 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits
+2024-10-21 20:48:58,976 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of
+2024-10-21 20:48:59,359 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of the delta
+2024-10-21 20:48:59,855 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of the delta card
+2024-10-21 20:49:00,273 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of the delta card please
+2024-10-21 20:49:00,634 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of the delta card please
+2024-10-21 20:49:01,161 - src.utils.logging - INFO - Transcription (interim):look i travel a lot on delta flights so can you tell me the benefits of the delta card please
+2024-10-21 20:49:01,621 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:49:01,622 - src.utils.logging - INFO - 
+Customer: Look, I travel a lot on delta flights, so can you tell me the benefits of the delta? Card, please.
+2024-10-21 20:49:46,026 - src.utils.logging - INFO - Transcription (interim):what
+2024-10-21 20:49:46,546 - src.utils.logging - INFO - Transcription (interim):what are the eligibility
+2024-10-21 20:49:46,905 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of
+2024-10-21 20:49:47,388 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of the delta
+2024-10-21 20:49:47,835 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of the delta car
+2024-10-21 20:49:48,300 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of the delta car
+2024-10-21 20:49:48,732 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of the delta car please
+2024-10-21 20:49:49,096 - src.utils.logging - INFO - Transcription (interim):what are the eligibility of the delta car please
+2024-10-21 20:49:49,576 - src.utils.logging - INFO - Transcription session closed.
+
+2024-10-21 20:49:49,576 - src.utils.logging - INFO - 
+Customer: What are the eligibility of the Delta car, please?

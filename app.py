@@ -8,7 +8,7 @@ load_dotenv()
 
 
 greeting = "Thank you for calling American Express. My name is Sandy, how may I assist you?"
-print("AI Agent", greeting)
+print("AI Agent:", greeting)
 ai_assistant = AiAssistant()
 ai_assistant.audio_generator.generate_audio(greeting)
 ai_assistant.start_transcription()

@@ -1,6 +1,7 @@
 import assemblyai as aai
 from .audio_generator import AudioGenerator
 from .response_generator import ResponseGenerator
+from ..content_engine.articles import get_article_from_content_engine
 from ..prompts import ai_response_prompt
 from ..constants import voice_ai_contstnts
 from openai import OpenAI
@@ -20,7 +21,7 @@ class AiAssistant:
         self.elevenlabs_api_key = os.getenv("ELEVENLABS_API_KEY")
         self.transcriber = None
         self.full_transcript = [
-            {"role": "system", "content": ai_response_prompt.SYSTEM_PROMPT},
+            {"role": "system", "content": ai_response_prompt.SYSTEM_PROMPT+get_article_from_content_engine()},
         ]
         self.audio_generator = AudioGenerator()
         self.response_generator = ResponseGenerator()
